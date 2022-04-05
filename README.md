@@ -2,7 +2,7 @@
 - 👀 I’m interested in IOT/IIOT/DIY/ETC
 - 🌱 I’m currently learning EdgeComputing
 - 💞️ I’m looking to collaborate on Edge computing and industry 4.0
-- 📫 How to reach me info@ideaxagroup.net
+- 📫 How to reach me info@ideaxagroup.com
 
 <!---
 IDEAXA/IDEAXA is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
